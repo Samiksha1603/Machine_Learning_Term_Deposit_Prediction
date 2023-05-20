@@ -1,5 +1,9 @@
 # Machine_Learning_Term_Deposit_Prediction
-Predict whether a customer will subscribe to the term deposit or not based on customer information of bank marketing campaigns
+Predict whether a customer will subscribe to the term deposit or not based on customer information of bank marketing campaigns.
+The Max Voting algorithm is used to combine the predictions of multiple models.
+The models used included Naive Bayes, Logistic Regression, KNN, SVM, Decision Tree, Random Forest, and XG Boost.
+The goal was to create an ensemble model.
+
 
 ![WhatsApp Image 2023-05-20 at 12 32 42 PM](https://github.com/Samiksha1603/Machine_Learning_Term_Deposit_Prediction/assets/73897765/0176cb88-8aeb-4ba6-84bb-fe6191030470)
 
